@@ -1,0 +1,5 @@
+Applescript to dial from the OS X Contacts.app (Formerly known as Address Book) to an Cisco IP phone
+Read more @ http://www.uni-weimar.de/medien/wiki/IP_Phone
+
+
+Prokrestination ist unser Elixier
